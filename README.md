@@ -41,17 +41,13 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * When a new user is created, send the new user an email with their username and temp password
 * Users can reset their password by email
 
-## Getting Started
-   
-(include git clone command)
-(include all environment setup steps)
+## Getting Started / Usage
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+In order to see this project in action, you will need a few things:
 
-- All the `code` required to get started
-- Images of what it should look like
+1. Be sure to have the Java 8 runtime environment installed.
+If both of the pre-requisites above are met, go ahead and clone this repo by using the below command:
 
-## Usage
-
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+>git clone https://github.com/kevin-altieri-revature/ERS.git
+    
+Once downloaded the projected can be ran through an IDE or building the jar.
