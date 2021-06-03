@@ -43,11 +43,8 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 ## Getting Started / Usage
 
-In order to see this project in action, you will need a few things:
+In order to see this project in action, you will need be sure to have the Java 8 runtime environment installed.
 
-1. Be sure to have the Java 8 runtime environment installed.
-If both of the pre-requisites above are met, go ahead and clone this repo by using the below command:
-
->git clone https://github.com/kevin-altieri-revature/ERS.git
+Once done, you can `git clone https://github.com/kevin-altieri-revature/ERS.git`
     
 Once downloaded the projected can be ran through an IDE or building the jar.
